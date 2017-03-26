@@ -1,0 +1,6 @@
+Test 1 (removeHead): passed
+Test 2 (insert): passed
+Test 3 (isEmpty): passed
+Test 4 (length): passed
+Test 5 (remove): passed
+Test 6 (retrieve): passed
